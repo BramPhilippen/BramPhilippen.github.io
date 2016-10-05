@@ -1,0 +1,30 @@
+body{
+  color: #646568;
+  font-family: 'helvetica neue', arial, sans-serif;
+}
+
+.darkgrey{
+  color: #646568;
+  font-family: 'helvetica neue', arial, sans-serif;
+}
+
+.jumbotron{
+  background-color: #f8f8f8;
+  border-color: #e7e7e7;
+}
+
+.grey{
+  color:#a0a0a0;
+}
+
+.linkgrey{
+  color:#a0a0a0;
+}
+
+.linkgrey:hover{
+  color:#646568;
+}
+
+.navbar-nav:hover{
+  text-decoration: underline;
+}
